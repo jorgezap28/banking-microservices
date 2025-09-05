@@ -1,0 +1,16 @@
+2025-09-02 16:25:22 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 36528 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-02 16:25:22 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-02 16:25:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-02 16:25:26 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 511 ms. Found 2 JPA repository interfaces.
+2025-09-02 16:25:28 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-02 16:25:28 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-02 16:25:28 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-02 16:25:29 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-02 16:25:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-02 16:25:31 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 465e6d06-2936-49df-9d1d-0b5f33ab5f7b
+2025-09-02 16:25:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-02 16:25:31 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-02 16:25:36 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-02 16:25:36 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-02 16:25:41 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-02 16:25:41 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 20.254 seconds (process running for 21.921)

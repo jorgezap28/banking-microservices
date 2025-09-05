@@ -1,0 +1,503 @@
+2025-09-05 07:00:05 WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12h21m43s957ms139µs600ns).
+2025-09-05 08:56:14 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 08:56:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 08:56:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 08:58:42 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 2412 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 08:58:42 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 08:58:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 08:58:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 173 ms. Found 2 JPA repository interfaces.
+2025-09-05 08:58:43 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 08:58:43 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 08:58:44 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 08:58:44 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 08:58:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 08:58:45 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d9299102-d61d-4906-82cd-3d3791fe3f52
+2025-09-05 08:58:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 08:58:45 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 08:58:46 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 08:58:46 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 08:58:48 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 08:58:48 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 6.55 seconds (process running for 7.088)
+2025-09-05 09:09:30 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:09:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 09:09:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 09:10:46 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 32664 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:10:46 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:10:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:10:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 264 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:10:48 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:10:48 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:10:48 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:10:49 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:10:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:10:50 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 3ed62992-e67b-4e68-8bd3-ef3b22e9f307
+2025-09-05 09:10:50 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:10:50 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:10:51 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:10:51 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:10:53 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:10:53 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 8.043 seconds (process running for 8.86)
+2025-09-05 09:12:56 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:12:56 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 09:12:56 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 09:14:00 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 31204 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:14:00 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:14:01 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:14:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 214 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:14:03 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:14:03 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:14:03 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:14:04 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:14:04 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:14:04 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: e63c1d90-ac0d-4eee-b689-3f7b5f2d64b9
+2025-09-05 09:14:04 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:14:04 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:14:06 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:14:06 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:14:08 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:14:08 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 8.692 seconds (process running for 9.598)
+2025-09-05 09:16:04 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:16:04 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 09:16:04 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 09:17:22 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 18696 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:17:22 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:17:22 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:17:23 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 179 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:17:24 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:17:24 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:17:24 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:17:24 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:17:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:17:25 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d5ab6ec3-0954-4535-8e6c-5fa72d04ab3b
+2025-09-05 09:17:25 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:17:25 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:17:27 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:17:27 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:17:28 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:17:28 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 7.377 seconds (process running for 8.271)
+2025-09-05 09:20:51 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:20:51 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 09:20:51 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 09:21:18 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 44472 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:21:18 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:21:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:21:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 278 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:21:20 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:21:20 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:21:20 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:21:21 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:21:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:21:21 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 4992d7a7-3d26-4cfc-8c51-6529aeb18d50
+2025-09-05 09:21:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:21:21 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:21:23 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:21:23 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:21:25 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:21:25 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 7.332 seconds (process running for 8.189)
+2025-09-05 09:26:49 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:26:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 09:26:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 09:32:30 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 35160 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:32:30 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:32:31 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:32:31 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 254 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:32:32 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:32:33 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:32:33 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:32:33 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:32:33 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:32:34 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 92981e9f-5544-4693-aded-2e325cc771ca
+2025-09-05 09:32:34 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:32:34 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:32:37 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:32:37 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:32:39 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:32:39 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 10.147 seconds (process running for 11.231)
+2025-09-05 09:48:23 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 27596 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 09:48:23 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 09:48:26 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 09:48:27 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 623 ms. Found 2 JPA repository interfaces.
+2025-09-05 09:48:29 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 09:48:30 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 09:48:30 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 09:48:31 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 09:48:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 09:48:33 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 47995304-28de-4a52-95ab-813c17885b17
+2025-09-05 09:48:33 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 09:48:33 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 09:48:38 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 09:48:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 09:48:41 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 09:48:41 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 19.813 seconds (process running for 21.13)
+2025-09-05 11:06:00 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:06:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:06:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:09:45 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 13944 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:09:45 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:09:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:09:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 434 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:09:51 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:09:52 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:09:52 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:09:53 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:09:53 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:09:54 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: dc020960-9e0e-4ac0-b87d-7b694fda594b
+2025-09-05 11:09:54 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:09:55 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:09:57 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:09:57 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:10:01 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 17.939 seconds (process running for 22.128)
+2025-09-05 11:10:05 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:10:05 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:10:05 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:10:38 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 29088 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:10:38 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:10:39 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:10:40 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 571 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:10:42 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:10:42 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:10:42 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:10:43 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:10:43 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:10:44 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 099d6d54-00dc-45dd-8f32-f92bdf42a9fc
+2025-09-05 11:10:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:10:44 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:10:46 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:10:46 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:10:53 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 16.256 seconds (process running for 18.794)
+2025-09-05 11:11:00 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:11:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:11:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:11:31 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 29072 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:11:31 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:11:33 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:11:33 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 227 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:11:34 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:11:34 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:11:34 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:11:35 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:11:35 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:11:36 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 629315e2-a445-4354-901d-643d17a49793
+2025-09-05 11:11:36 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:11:36 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:11:38 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:11:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:11:42 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 12.158 seconds (process running for 14.853)
+2025-09-05 11:11:45 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:11:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:11:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:14:18 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 10432 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:14:18 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:14:20 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:14:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 303 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:14:22 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:14:22 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:14:22 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:14:24 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:14:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:14:25 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 70884b77-67e7-4728-9f8b-1d38b2647381
+2025-09-05 11:14:25 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:14:25 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:14:27 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:14:27 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:14:31 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 13.261 seconds (process running for 16.362)
+2025-09-05 11:14:34 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:14:34 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:14:34 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:20:49 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 28844 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:20:49 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:20:50 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:20:50 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 252 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:20:52 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:20:52 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:20:52 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:20:52 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:20:53 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:20:53 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: dbd2cb27-e45d-430c-86d6-ca3a1f7a657a
+2025-09-05 11:20:53 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:20:54 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:20:55 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:20:55 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:20:58 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 10.677 seconds (process running for 12.79)
+2025-09-05 11:21:02 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:21:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:21:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:24:48 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 22900 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:24:48 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:24:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:24:50 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 212 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:24:51 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:24:51 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:24:51 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:24:52 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:24:52 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:24:53 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 891c4291-b722-4ad8-ab70-e9b6bab148d3
+2025-09-05 11:24:53 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:24:53 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:24:56 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:24:56 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:24:58 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 10.394 seconds (process running for 12.411)
+2025-09-05 11:25:01 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:25:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:25:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:25:17 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 38920 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:25:17 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:25:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:25:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 361 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:25:20 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:25:20 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:25:20 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:25:21 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:25:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:25:22 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 3b0bbd3e-ce8b-46e6-8b2c-30444bd420f3
+2025-09-05 11:25:22 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:25:22 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:25:23 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:25:23 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:25:26 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 11:25:26 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 9.446 seconds (process running for 10.09)
+2025-09-05 11:34:45 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:34:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:34:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:37:13 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 44064 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:37:13 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:37:15 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:37:15 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 186 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:37:16 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:37:16 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:37:16 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:37:17 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:37:17 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:37:17 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 1190ecb5-5730-4acd-a483-39db62dbf796
+2025-09-05 11:37:17 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:37:17 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:37:19 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:37:19 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:37:21 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 8.784 seconds (process running for 11.142)
+2025-09-05 11:37:24 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:37:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:37:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:37:43 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 16560 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:37:43 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:37:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:37:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 223 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:37:45 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:37:45 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:37:45 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:37:46 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:37:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:37:47 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: b08bb373-3d10-4922-b4bc-669a98dc9747
+2025-09-05 11:37:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:37:47 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:37:50 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:37:50 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:37:53 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 11:37:53 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 10.583 seconds (process running for 11.509)
+2025-09-05 11:41:01 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:41:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:41:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:41:24 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 37616 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:41:24 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:41:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:41:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 149 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:41:26 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:41:26 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:41:26 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:41:27 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:41:27 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:41:28 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 839eaca3-dea3-417f-a695-86ccac3ca3cf
+2025-09-05 11:41:28 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:41:28 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:41:30 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:41:30 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:41:33 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 9.821 seconds (process running for 11.68)
+2025-09-05 11:41:36 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:41:36 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:41:36 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:41:58 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 11384 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:41:58 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:41:58 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:41:59 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 143 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:41:59 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:41:59 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:41:59 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:42:00 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:42:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:42:00 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 917f983e-1022-43d1-a5f1-cb89f2a757de
+2025-09-05 11:42:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:42:00 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:42:03 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:42:03 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:42:04 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 11:42:04 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 6.971 seconds (process running for 7.713)
+2025-09-05 11:45:25 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:45:25 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:45:25 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:47:55 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 32852 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:47:55 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:47:56 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:47:56 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 255 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:47:58 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:47:58 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:47:58 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:47:59 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:47:59 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:48:00 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 6d20c55c-0053-4845-a09a-d3faa87e77b4
+2025-09-05 11:48:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:48:00 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:48:02 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:48:02 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:48:05 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 11.179 seconds (process running for 13.642)
+2025-09-05 11:48:08 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:48:08 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:48:08 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:48:26 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 17768 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:48:26 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:48:27 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:48:27 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 173 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:48:28 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:48:28 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:48:28 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:48:29 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:48:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:48:30 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 456845bf-cec1-4331-82e7-a98211ef66b0
+2025-09-05 11:48:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:48:30 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:48:33 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:48:33 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:48:36 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 11:48:36 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 11.432 seconds (process running for 12.406)
+2025-09-05 11:53:52 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:53:52 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:53:52 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:54:23 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 35924 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:54:23 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:54:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:54:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 267 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:54:26 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:54:27 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:54:27 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:54:28 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:54:28 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:54:29 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: df13738e-9483-4c66-a6aa-67408566ff8d
+2025-09-05 11:54:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:54:29 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:54:31 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:54:31 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:54:34 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 12.647 seconds (process running for 15.533)
+2025-09-05 11:54:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:54:38 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 11:54:38 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 11:54:56 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 356 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 11:54:56 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 11:54:57 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 11:54:57 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 156 ms. Found 2 JPA repository interfaces.
+2025-09-05 11:54:58 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 11:54:58 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 11:54:58 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 11:54:59 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 11:54:59 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 11:54:59 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 9e60855f-78ae-4145-83b8-7a7078c09c8b
+2025-09-05 11:54:59 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 11:54:59 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 11:55:01 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 11:55:01 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 11:55:04 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 11:55:04 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 8.513 seconds (process running for 9.377)
+2025-09-05 11:55:05 INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 626 ms
+2025-09-05 12:03:58 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:03:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:03:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 12:04:26 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 39440 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 12:04:26 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 12:04:28 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 12:04:29 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 308 ms. Found 2 JPA repository interfaces.
+2025-09-05 12:04:30 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 12:04:30 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 12:04:30 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 12:04:31 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 12:04:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 12:04:32 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: bbe6ee2b-f404-4603-8e07-f40ec95eec27
+2025-09-05 12:04:32 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 12:04:32 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 12:04:34 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 12:04:34 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:04:37 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 11.03 seconds (process running for 13.145)
+2025-09-05 12:04:39 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:04:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:04:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 12:04:59 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 12524 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 12:04:59 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 12:05:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 12:05:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 209 ms. Found 2 JPA repository interfaces.
+2025-09-05 12:05:01 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 12:05:01 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 12:05:01 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 12:05:02 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 12:05:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 12:05:02 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 27a0becf-170f-4262-bdc7-7a2468b01ac6
+2025-09-05 12:05:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 12:05:02 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 12:05:03 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 12:05:03 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:05:05 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 12:05:05 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 6.763 seconds (process running for 7.336)
+2025-09-05 12:06:22 INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 668 ms
+2025-09-05 12:07:24 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:07:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:07:24 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 12:07:48 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 16596 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 12:07:48 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 12:07:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 12:07:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 221 ms. Found 2 JPA repository interfaces.
+2025-09-05 12:07:50 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 12:07:51 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 12:07:51 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 12:07:51 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 12:07:51 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 12:07:52 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 0c1ff368-3391-461a-9963-bff3b49b27f0
+2025-09-05 12:07:52 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 12:07:52 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 12:07:54 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 12:07:54 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:07:57 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 10.086 seconds (process running for 12.666)
+2025-09-05 12:08:00 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:08:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:08:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 12:08:18 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Starting MicroserviceClientePersonaApplication using Java 17.0.7 with PID 44588 (C:\Users\jozapata\projects\banca\microservice-cliente-persona\target\classes started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 12:08:18 INFO  c.b.c.p.MicroserviceClientePersonaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 12:08:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 12:08:19 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 160 ms. Found 2 JPA repository interfaces.
+2025-09-05 12:08:20 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 12:08:20 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 12:08:20 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 12:08:20 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 12:08:20 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 12:08:21 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 1c2484bf-adc2-4925-928d-62d89a3f8889
+2025-09-05 12:08:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 12:08:21 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 12:08:22 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 12:08:22 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:08:23 INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8081
+2025-09-05 12:08:23 INFO  c.b.c.p.MicroserviceClientePersonaApplication - Started MicroserviceClientePersonaApplication in 5.764 seconds (process running for 6.525)
+2025-09-05 12:20:59 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:21:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:21:00 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-09-05 12:21:33 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Starting CustomerServiceIntegrationTest using Java 17.0.7 with PID 34304 (started by jozapata in C:\Users\jozapata\projects\banca\microservice-cliente-persona)
+2025-09-05 12:21:33 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - No active profile set, falling back to 1 default profile: "default"
+2025-09-05 12:21:35 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-09-05 12:21:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 371 ms. Found 2 JPA repository interfaces.
+2025-09-05 12:21:37 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-09-05 12:21:38 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 6aa6c9fb-43ec-4d62-86ba-f7b734d47af7
+2025-09-05 12:21:38 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-09-05 12:21:38 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-09-05 12:21:39 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2025-09-05 12:21:39 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-09-05 12:21:40 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-09-05 12:21:40 WARN  org.hibernate.orm.deprecation - HHH90000025: SQLServerDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-09-05 12:21:42 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-09-05 12:21:42 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:21:44 INFO  c.b.c.p.s.CustomerServiceIntegrationTest - Started CustomerServiceIntegrationTest in 12.167 seconds (process running for 14.868)
+2025-09-05 12:21:47 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-09-05 12:21:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-09-05 12:21:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

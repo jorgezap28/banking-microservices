@@ -1,0 +1,45 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=banca;encrypt=false
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServerDialect
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: cliente-persona-group
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring:
+          json:
+            [trusted.packages]: '*'
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: false
